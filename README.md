@@ -1,2 +1,2 @@
 # QUIC
-QUIC is a speech triggered bot which gives real time updates
+QUIC is a speech triggered bot that gives real time updates
