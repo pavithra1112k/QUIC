@@ -1,0 +1,9 @@
+Conversation between bot and the user:
+
+BOT: Hola User! How are you doing today?
+USER: I am doing pretty fine
+BOT: How can I help you?
+USER: information
+BOT: Information about what?
+USER: Kargil
+BOT: Reading out information from wikipedia about Kargil
