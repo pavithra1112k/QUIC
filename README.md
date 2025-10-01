@@ -26,11 +26,11 @@ Libraries:
 
 - selenium
   
--speech_recognition 
+- speech_recognition 
 
--gTTS (Google Text-to-Speech) 
+- gTTS (Google Text-to-Speech) 
 
- -pyttsx3 (offline speech synthesis)
+- pyttsx3 (offline speech synthesis)
 
  ### 📚 References  
  
