@@ -1,4 +1,4 @@
-##🎙️ QUIC - Speech Triggered Assistant
+## 🎙️ QUIC - Speech Triggered Assistant
 
 An AI-powered voice assistant that provides movie recommendations, music suggestions, weather updates, and casual conversations, all triggered through speech commands! 
 
