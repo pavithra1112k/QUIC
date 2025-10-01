@@ -1,20 +1,20 @@
-##🎙️ QUIC — Speech Triggered Assistant
+##🎙️ QUIC - Speech Triggered Assistant
 
-An AI-powered voice assistant that provides movie recommendations, music suggestions, weather updates, and casual conversations — all triggered through speech commands! 
+An AI-powered voice assistant that provides movie recommendations, music suggestions, weather updates, and casual conversations, all triggered through speech commands! 
 
 ### 🔹 Key Features
 
-🎬 Movie Recommendations — Get personalized movie suggestions on demand.
+🎬 Movie Recommendations: Get personalized movie suggestions on demand.
 
-🎵 Music Recommendations — Suggests trending tracks and playlists.
+🎵 Music Recommendations: Suggests trending tracks and playlists.
 
-🌦 Weather Updates — Provides real-time weather conditions for any city.
+🌦 Weather Updates: Provides real-time weather conditions for any city.
 
-💬 Conversational Mode — Chat casually like a companion.
+💬 Conversational Mode: Chat casually like a companion.
 
-🎤 Speech Triggered — Uses voice input instead of manual typing.
+🎤 Speech Triggered: Uses voice input instead of manual typing.
 
-⚡ Fast & Lightweight — Built for quick responses with minimal latency.
+⚡ Fast & Lightweight: Built for quick responses with minimal latency.
 
 ### 🛠 Tech Stack
 
